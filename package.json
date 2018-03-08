@@ -1,5 +1,5 @@
 {
-  "name": "@socivo/ember-cli-mask-money",
+  "name": "ember-cli-jquery-mask-money",
   "version": "0.0.1",
   "description": "The default blueprint for ember-cli addons.",
   "keywords": [
