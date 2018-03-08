@@ -7,7 +7,7 @@ module.exports = {
   
   included: function(app) {
     this._super.included(app);
-    app.import('vendor/intlTelInput.js');
+    app.import('vendor/jquery.maskMoney.min.js');
         
   },
   treeForVendor(tree) {
