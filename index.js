@@ -1,4 +1,6 @@
 'use strict';
+var path = require('path');
+var Funnel = require('broccoli-funnel');
 
 module.exports = {
   name: 'ember-cli-jquery-mask-money',
